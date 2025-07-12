@@ -1,0 +1,7 @@
+
+pandas
+requests
+ta
+websocket-client
+python-dotenv
+telepot
